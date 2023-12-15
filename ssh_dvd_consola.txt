@@ -1,0 +1,29 @@
+Generating public/private rsa key pair.
+Enter file in which to save the key (C:\Users\user/.ssh/id_rsa): cat ~/.ssh/id_rsa.pub
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Saving key "cat ~/.ssh/id_rsa.pub" failed: No such file or directory
+(mgzro-virtualenv) PS C:\Users\user\Documents\PROGRAMARE_LINUX823\WebDevelopment\A4.MGZRO231215> ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (C:\Users\user/.ssh/id_rsa): ssh_dvd.txt
+ssh_dvd.txt already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in ssh_dvd.txt
+Your public key has been saved in ssh_dvd.txt.pub
+The key fingerprint is:
+SHA256:LX9Q+Sm+uv5scyz8KrdzE6VktkZ4CBBrIizHmr0G17k user@WIN-HCE2C1KRSGS
+The key's randomart image is:
++---[RSA 3072]----+
+|        oo       |
+|   o     ..  .   |
+|  . = . o  .oo   |
+|   * o + . .o.*..|
+|  + o o S o .*o+ |
+|   o . . o o .=  |
+|    o E   ..oo . |
+|   .      .oB.=  |
+|         .+B*X.. |
++----[SHA256]-----+
+(mgzro-virtualenv) PS C:\Users\user\Documents\PROGRAMARE_LINUX823\WebDevelopment\A4.MGZRO231215>
